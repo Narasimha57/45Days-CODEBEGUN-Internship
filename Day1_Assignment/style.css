@@ -1,0 +1,27 @@
+*{
+    margin: 4px;
+   
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.Block p{
+    color: greenyellow;
+
+}
+
+.Block li{
+    color: aqua;
+}
+
+.Inline p{
+    color: greenyellow;
+}
+
+.Inline li{
+    color: aqua;
+}
+
